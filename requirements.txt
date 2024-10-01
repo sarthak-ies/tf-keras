@@ -1,0 +1,69 @@
+absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
+astor==0.8.1
+astunparse==1.6.3
+cached-property==1.5.2
+cachetools==4.2.4
+certifi==2021.5.30
+charset-normalizer==2.0.12
+clang==5.0
+coverage @ file:///tmp/build/80754af9/coverage_1614614208500/work
+cycler==0.11.0
+Cython @ file:///tmp/build/80754af9/cython_1626256602391/work
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+decorator==4.4.2
+dm-tree==0.1.5
+flatbuffers==1.12
+gast==0.4.0
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio==1.48.2
+h5py==3.1.0
+idna==3.10
+imageio==2.15.0
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+keras==2.6.0
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.3.1
+Markdown==3.3.7
+matplotlib==3.3.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+MNN==2.9.5
+networkx==2.5.1
+numpy==1.19.5
+oauthlib==3.2.2
+opencv-contrib-python==3.4.13.47
+opencv-python==3.4.13.47
+opt-einsum==3.3.0
+Pillow==8.4.0
+protobuf==3.19.6
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycocotools==2.0.7
+pyparsing==3.1.4
+python-dateutil==2.9.0.post0
+PyWavelets==1.1.1
+requests==2.27.1
+requests-oauthlib==2.0.0
+rsa==4.9
+scikit-image==0.17.2
+scipy==1.5.4
+six==1.15.0
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.6.2
+tensorflow-estimator==2.6.0
+tensorflow-model-optimization==0.7.3
+termcolor==1.1.0
+tifffile==2020.9.3
+tqdm==4.64.1
+typing-extensions==3.7.4.3
+urllib3==1.26.20
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
